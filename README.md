@@ -1,2 +1,4 @@
-# Pruebas-Saber-Pro---Kaggle---2024-2
-Se pretende crear un modelo que prediga cómo sera el resultado de un estudiante en las pruebas saber pro, después de analizar una serie de datos.
+#Nombre: Harol Esteban Salazar
+#Cédula: 1004299810
+#Programa: Ingeniería Mécanica
+#Link Video: 
